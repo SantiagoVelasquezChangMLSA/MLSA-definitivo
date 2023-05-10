@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "/workspaces/MLSA-definitivo/src/images/benson-low-jh6V4Y2s6OU-unsplash.jpg";
+import image from "../images/benson-low-jh6V4Y2s6OU-unsplash.jpg";
 
 const imageAltText = "chinese landscape";
 

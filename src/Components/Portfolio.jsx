@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "/workspaces/MLSA-definitivo/src/images/axp-photography-SML3jQ6nuk4-unsplash.jpg";
+import image from "../images/axp-photography-SML3jQ6nuk4-unsplash.jpg";
 
 const imageAltText = "landscape";
 
